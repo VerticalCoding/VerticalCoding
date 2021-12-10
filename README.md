@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VerticalCoding
+- 👀 I’m interested in; Video games, Music and art
+- 🌱 I’m currently learning to code various things ranging from games to softwares/hardwares
